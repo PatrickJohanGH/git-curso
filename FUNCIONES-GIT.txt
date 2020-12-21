@@ -1,1 +1,11 @@
-lorem loremxd
+<!--    CURSO DE GIT
+1) git init : Para iniciar un nuevo proyecto
+2) git status : Para ver el estado de nuestros archivos
+3) git commit : Para crear un primer punto de control de nuestro codigo
+4) git config --global user.email "" : para configurar el email de este usuario
+5) git config --global user.name "" : para configurar el nombre del usuario
+6) git commit : Captura una unstantanea de los cambios preparados en ese momento del proyecto.Las instantaneass confirmadas se pueden considerar como versiones "seguras" de un proyecto.
+7) git log : Para ver todos los commits que hemos creado
+8) git checout --<file> : Es para volver a la version anterior del archivo
+9) git diff : Para ver las diferencias hechas en los archivos
+-->
